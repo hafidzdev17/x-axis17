@@ -1,7 +1,5 @@
 ### Hi nakama 👋
 
-<!--
-**xnuxer17/xnuxer17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,4 +11,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... https://www.facebook.com/hafet.coding
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I am a native Indonesian
--->
+
