@@ -1,38 +1,7 @@
-# **Hi there 👋 I'm Hafidz 👨‍💻**
-
-> _**A web developer from Lumajang, Indonesian**._
+### Hi there, I'm Hafidz 👋
 
 
-<!-- <p align='center'>
-  📫 How to reach me: <a href='https://www.facebook.com/hafet.coding'>Hafidz</a>
-</p>
-<p align='center'>
-  <a href="#"><img src="https://badges.pufler.dev/visits/alexandresanlim/alexandresanlim"></a> hipsters and nerds come here o/
-</p> -->
+- 🌱 I’m currently learning progamming
 
-
-## **Here are some ideas to get you started:**
-
-- 🔭 I’m currently working on ... Laptop 😄
-- 🌱 I’m currently learning ... (Laravel,Vue JS & MERN Stack)
-- 👯 I’m looking to collaborate on ... (Laravel, Nuxt JS)
-- 🤔 I’m looking for help with ... Fullstack Dev
-- 💬 Ask me about ... Anything
-- 📫 How to reach me: ... https://www.facebook.com/hafet.coding
-- 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... I am a native Indonesian
-
-> _**Follow Me**_
-<p align='center'>
-  
-  <a href="https://wa.me/6285236639572">
-    <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />    
-  </a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/mohamad-hafidz-masruri-a225a9175/"></a>
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  <a href="https://www.instagram.com/xnuxer17/">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
-  </a>&nbsp;&nbsp;
-  
-</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ackerman17&theme=radical)](https://github.com/ackerman17)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ackerman17&show_icons=true&theme=radical)
