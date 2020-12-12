@@ -11,8 +11,6 @@ I joined ukm campus [UKMPUSDIKOM](https://github.com/ukmpusdikom) - [COMMIT](htt
 
 
 ## &#x1f4c8; GitHub Stats
-
-![Hafidz github stats]
 <a href="https://github.com/hafet17">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=hafet17&theme=algolia&show_icons=true&count_private=true" />
 </a>
