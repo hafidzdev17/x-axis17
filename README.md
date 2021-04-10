@@ -1,7 +1,5 @@
 
-## Hi Nakama 👋
-I am an informatics student at Unuja and a web developer. Currently, I am focusing on learning on the back end with laravel,nodejs & django for the front end we usually use react & vue.
-and I am now focusing on learning Cloud Computing Bangkit Academy led by Google, Tokopedia, Gojek, & Traveloka
+## Hi Semua Salam Kenal 👋
 
 
 ## &#x1f4c8; GitHub Stats
