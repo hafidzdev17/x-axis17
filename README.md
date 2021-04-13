@@ -15,7 +15,7 @@ I'm Mohamad Hafid Masruri, 22 years old, informatics Students at Nurul Jadid Uni
 - My Hobby is Playing Football, 🏈ball: 
 - I live in Jambekumbu, Lumajang, East Java, Indonesia 🏠:
 - now I'm learning Web Development & GCP 💻:
-- My other skills Linx & Networking 💻:
+- My other skills Linux & Networking 💻:
 
 &nbsp;
 
