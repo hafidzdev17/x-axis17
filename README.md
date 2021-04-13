@@ -6,7 +6,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=plastic&logo=Linkedin&link=https://www.linkedin.com/in/mohamad-hafid-masruri-a225a9175/)](https://www.linkedin.com/in/mohamad-hafid-masruri-a225a9175/) 
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=plastic&logo=telegram&link=https://t.me/xnuxer17)](https://t.me/xnuxer17) 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-white?style=plastic&logo=instagram&link=https://www.instagram.com/hafet17/)](https://www.instagram.com/hafet17/)
-![Adithya-13 Stars](https://img.shields.io/github/stars/hafet17?affiliations=OWNER&style=social)
+![hafet17 Stars](https://img.shields.io/github/stars/hafet17?affiliations=OWNER&style=social)
 
 I'm Mohamad Hafid Masruri, 22 years old, informatics Students at Nurul Jadid University. My busy life now is as a student, I am familiar with web developers and now studying at Google Bangkit Academy in learning path cloud computing. You can Reach me in [Telegram](https://t.me/hafet17) or [Instagram](https://www.instagram.com/hafet17/).
 
