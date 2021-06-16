@@ -10,12 +10,6 @@
 
 I'm Mohamad Hafid Masruri, 22 years old, informatics Students at Nurul Jadid University. My busy life now is as a student, I am familiar with web developers and now studying at Google Bangkit Academy in learning path cloud computing. You can Reach me in [Telegram](https://t.me/hafet17) or [Instagram](https://www.instagram.com/hafet17/).
 
-**About My Personality**
-
-- My Hobby is Playing Football, 🏈ball: 
-- I live in Jambekumbu, Lumajang, East Java, Indonesia 🏠:
-- now I'm learning Web Development & Cloud Computing 💻:
-- My other skills Linux & Networking 💻:
 
 &nbsp;
 
