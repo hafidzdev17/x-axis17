@@ -8,7 +8,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-white?style=plastic&logo=instagram&link=https://www.instagram.com/hafet17/)](https://www.instagram.com/hafet17/)
 ![hafet17 Stars](https://img.shields.io/github/stars/hafet17?affiliations=OWNER&style=social)
 
-I'm Mohamad Hafid Masruri, 22 years old, informatics Students at Nurul Jadid University. My busy life now is as a student, I am familiar with web developers and now studying at Google Bangkit Academy in learning path cloud computing. You can Reach me in [Telegram](https://t.me/hafet17) or [Instagram](https://www.instagram.com/hafet17/).
+greetings to all ... I am an IT student who likes to learn new things about technology, especially in web development,
 
 
 &nbsp;
