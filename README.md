@@ -4,7 +4,7 @@
 <br>
 
 <p align="left"> 
-<img src="https://komarev.com/ghpvc/?username=OvinduWijethunge&color=brightgreen" alt="watching_count" />
+<img src="https://komarev.com/ghpvc/?username=mcoded17&color=brightgreen" alt="watching_count" />
  </p>
  <p align="center">
 <img src="https://img.shields.io/badge/Age-26-blue" />
@@ -58,9 +58,9 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/hafid-masruri17/"><img src="https://img.shields.io/badge/-M%20Hafid%20Masruri-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:avsingh@umass.edu"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/adityavs_"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://facebook.com/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="mailto:do.crazy192@gmail.com"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://instagram.com/adityavs_"><img src="https://img.shields.io/badge/-do.crazy192@gmail.com?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://facebook.com/hafet.coding"><img src="https://img.shields.io/badge/-hafet.coding?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
 
 -----
