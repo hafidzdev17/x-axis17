@@ -44,8 +44,8 @@
 <br>
 <br>
   <br>
-  
-[![Hafidz GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mcoded17&theme=tokyonight)](https://git.io/praveenscience)
+<!--   
+[![Hafidz GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mcoded17&theme=tokyonight)](https://git.io/praveenscience) -->
 
 | ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=mcoded17&show_icons=true&theme=tokyonight) | ![Hafidz GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mcoded17&theme=tokyonight) |
 | --- | --- |
