@@ -31,26 +31,17 @@
 
 <br />
 
-[![Hafidz17 github stats](https://github-readme-stats.ujwalkandi.vercel.app/api?username=mcoded17&count_private=true&show_icons=true&theme=blue-green&hide_rank=false&hide=stars&include_all_commits=true)](https://github.com/mcoded17?tab=repositories)&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.ujwalkandi.vercel.app/api/top-langs/?username=UjwalKandi&layout=compact&langs_count=6&theme=blue-green)](https://github.com/mcoded17)
+[![Hafidz17 github stats](https://github-readme-stats.ujwalkandi.vercel.app/api?username=mcoded17&count_private=true&show_icons=true&theme=blue-green&hide_rank=false&hide=stars&include_all_commits=true)](https://github.com/mcoded17?tab=repositories)&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.ujwalkandi.vercel.app/api/top-langs/?username=mcoded17&layout=compact&langs_count=6&theme=blue-green)](https://github.com/mcoded17)
 
  <p align='left'>
-   <a href="https://www.linkedin.com/in/ujwalkandi" target="_blank"><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/linkedin%20rect.svg"></a>&nbsp;&nbsp;
- <a href="https://twitter.com/UjwalKandiii" target="_blank"><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/twitter%20rect.svg"></a>&nbsp;&nbsp;
- <a href="https://instagram.com/ujwal_kandi" target="_blank"><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/insta%20rect.svg"></a>&nbsp;&nbsp;
- <a href="https://www.kaggle.com/ujwalkandi" target="_blank"><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/Kaggle%20rect.svg"></a>&nbsp;&nbsp;
- <a href="https://public.tableau.com/profile/ujwal.kandi#!/" target="_blank"><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/tableau%20rect.svg"></a>&nbsp;&nbsp;
- <a href="https://dev.to/ujwalkandi" target="_blank"><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/master/svg/Dev--black.svg"></a>&nbsp;&nbsp;
- <a href="https://github.com/UjwalKandi" target="_blank"><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/github%20rect.svg"></a>&nbsp;&nbsp;
+   <a href="https://www.linkedin.com/in/hafid-masruri17/" target="_blank"><img height="25" src="https://raw.githubusercontent.com/mcoded17/mcoded17/changes-to-readme/svg/linkedin%20rect.svg"></a>&nbsp;&nbsp;
+ <a href="https://twitter.com/MHafet17" target="_blank"><img height="25" src="https://raw.githubusercontent.com/mcoded17/mcoded17/changes-to-readme/svg/twitter%20rect.svg"></a>&nbsp;&nbsp;
+ <a href="https://instagram.com/hafet17" target="_blank"><img height="25" src="https://raw.githubusercontent.com/mcoded17/mcoded17/changes-to-readme/svg/insta%20rect.svg"></a>&nbsp;&nbsp;
+ <a href="https://github.com/mcoded17" target="_blank"><img height="25" src="https://raw.githubusercontent.com/mcoded17/mcoded17/changes-to-readme/svg/github%20rect.svg"></a>&nbsp;&nbsp;
  
  </p>
 
 
-![build](https://github.com/UjwalKandi/UjwalKandi/blob/changes-to-readme/svg/badge.svg)
-![GitHub last commit](https://github.com/UjwalKandi/UjwalKandi/blob/master/svg/last%20commit.svg)
-![pv](https://pageview.vercel.app/?github_user=UjwalKandi)
+![pv](https://pageview.vercel.app/?github_user=mcoded17)
 
 
------
-Credits: [UjwalKandi](https://github.com/UjwalKandi)
-
-Last Edited on: 10/14/2021
