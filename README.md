@@ -34,9 +34,8 @@
 [![Hafidz17 github stats](https://github-readme-stats.ujwalkandi.vercel.app/api?username=mcoded17&count_private=true&show_icons=true&theme=blue-green&hide_rank=false&hide=stars&include_all_commits=true)](https://github.com/mcoded17?tab=repositories)&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.ujwalkandi.vercel.app/api/top-langs/?username=mcoded17&layout=compact&langs_count=6&theme=blue-green)](https://github.com/mcoded17)
 
 ## Contact me : 
-📫 [![Gmail Badge](https://img.shields.io/badge/-asthiseta@gmail.com-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:do.crazy192@gmail.com)](asthiseta@gmail.com)
+📫 [![Gmail Badge](https://img.shields.io/badge/-asthiseta@gmail.com-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:do.crazy192@gmail.com)](do.crazy192@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-asthi_21_-E4405F?style=flat-roundedrectangle&logo=instagram&logoColor=white&link=https://www.instagram.com/hafet17)](https://www.instagram.com/hafet17/)
 
-![pv](https://pageview.vercel.app/?github_user=mcoded17)
 
 
