@@ -1,40 +1,32 @@
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hafidzmsr&show_icons=true&theme=dracula" alt="Gading Github Stats">
+  <br><br>
+  <img src="https://komarev.com/ghpvc/?username=hafidzmsr&color=F4A4B5&style=flat" alt="gadingnst" />
+</div>
+<br>
 
-<h2 align="left">Hi there, I'm <a href="https://www.linkedin.com/in/hafid-masruri17/" target="_blank" rel="noopener noreferrer">Hafidz17</a> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30" />
- 
-<a href="https://github.com/mcoded17"><img align='right' src='https://github.com/UjwalKandi/UjwalKandi/blob/changes-to-readme/svg/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='150"'></a></h2>
+👋 Hello friends... My name is Muhammad Hafid Masruri, so you can call me "Hafid". I'm a Software Engineer who specializes in the *backend* side, but also have the ability to code on the *frontend* side. Very passionate about modern *web technologies* using PHP, JavaScript & Go while taking into consideration the latest trends and techniques.
 
-- 🎓 I'm a Computer Engineering undergrad  
-- 💻 I’m currently working at laptop
-- ⭐ 2021's Objective: Contribute more to open source <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- ⚡ I love gaming, programming and books 
+## 💻 Stacks Experiences
+- HTML & CSS
+- Pure PHP
+- PHP Framework (Laravel)
+- Pure JavaScript
+- NodeJS (ExpressJS)
+- GIT (VCS)
+- JavaScript Ecosystem & Environment
+- ReactJS, VueJS
+- NextJS, NuxtJS
+- Golang
+- Vercel, Netlify, Firebase, GCP
 
+### 🚀 How to reach me:
+- Email: [contact@do.crazy192@gmail.com](mailto:contact@do.crazy192@gmail.com)
+- LinkedIn: [@hafidzmsr](https://www.linkedin.com/in/https://www.linkedin.com/in/hafid-masruri17/)
+- Instagram: [@hafidzmsr](https://instagram.com/hafet17)
+- Twitter: [@hafidzmsr](https://twitter.com/MHafet17)
+- Telegram: [@hafidzmsr](https://t.me/mcoded17)
 
-#### Languages and Tools 
-<p>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
- <a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=django&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/django.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
- <a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=vuejs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/vuejs.svg'> </a>
-  <a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=nodejs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=css&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=php&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/php.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=laravel&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/laravel.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=go&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/go.svg'> </a>
-</code>
+---
 
-</p>
-
-<br />
-
-[![Hafidz17 github stats](https://github-readme-stats.ujwalkandi.vercel.app/api?username=mcoded17&count_private=true&show_icons=true&theme=blue-green&hide_rank=false&hide=stars&include_all_commits=true)](https://github.com/mcoded17?tab=repositories)&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.ujwalkandi.vercel.app/api/top-langs/?username=mcoded17&layout=compact&langs_count=6&theme=blue-green)](https://github.com/mcoded17)
-
-### 📫 Contact Me
-
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/hafet.coding)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/MHafet17)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hafet17/)
-[![Linkedin](https://img.shields.io/badge/Linkedin-1DA1F2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hafid-masruri17/)
-
-
+© 2022 — Muhammad Hafid Masruri
