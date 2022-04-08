@@ -21,7 +21,7 @@
 - Vercel, Netlify, Firebase, GCP
 
 ### 🚀 How to reach me:
-- Email: [contact@do.crazy192@gmail.com](mailto:contact@do.crazy192@gmail.com)
+- Email: [contact@do.crazy192@gmail.com](mailto:do.crazy192@gmail.com)
 - LinkedIn: [@kinzoku98](https://www.linkedin.com/in/https://www.linkedin.com/in/hafid-masruri17/)
 - Instagram: [@kinzoku98](https://instagram.com/hafet17)
 - Twitter: [@kinzoku98](https://twitter.com/MHafet17)
