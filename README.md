@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hafidzmsr&show_icons=true&theme=dracula" alt="Gading Github Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=kinzoku98&show_icons=true&theme=dracula" alt="Hafidz Github Stats">
   <br><br>
-  <img src="https://komarev.com/ghpvc/?username=hafidzmsr&color=F4A4B5&style=flat" alt="gadingnst" />
+  <img src="https://komarev.com/ghpvc/?username=kinzoku98&color=F4A4B5&style=flat" alt="kinzoku98" />
 </div>
 <br>
 
@@ -22,10 +22,10 @@
 
 ### 🚀 How to reach me:
 - Email: [contact@do.crazy192@gmail.com](mailto:contact@do.crazy192@gmail.com)
-- LinkedIn: [@hafidzmsr](https://www.linkedin.com/in/https://www.linkedin.com/in/hafid-masruri17/)
-- Instagram: [@hafidzmsr](https://instagram.com/hafet17)
-- Twitter: [@hafidzmsr](https://twitter.com/MHafet17)
-- Telegram: [@hafidzmsr](https://t.me/mcoded17)
+- LinkedIn: [@kinzoku98](https://www.linkedin.com/in/https://www.linkedin.com/in/hafid-masruri17/)
+- Instagram: [@kinzoku98](https://instagram.com/hafet17)
+- Twitter: [@kinzoku98](https://twitter.com/MHafet17)
+- Telegram: [@kinzoku98](https://t.me/xnuxer17)
 
 ---
 
