@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kinzoku98&show_icons=true&theme=dracula" alt="Hafidz Github Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=xcode17&show_icons=true&theme=dracula" alt="Hafidz Github Stats">
   <br><br>
-  <img src="https://komarev.com/ghpvc/?username=kinzoku98&color=F4A4B5&style=flat" alt="kinzoku98" />
+  <img src="https://komarev.com/ghpvc/?username=xcode17&color=F4A4B5&style=flat" alt="kinzoku98" />
 </div>
 <br>
 
