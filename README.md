@@ -5,7 +5,7 @@
 </div>
 <br>
 
-👋 Hello friends... My name is Muhammad Hafid Masruri, so you can call me "Hafid". I'm a Software Engineer who specializes in the *backend* side, but also have the ability to code on the *frontend* side. Very passionate about modern *web technologies* using PHP, JavaScript & Go while taking into consideration the latest trends and techniques.
+👋 Hello friends... My name is Muhammad Hafid Masruri, I'm a Software Engineer who specializes in the *backend* side, but also have the ability to code on the *frontend* side. Very passionate about modern *web technologies* using PHP, JavaScript & Go while taking into consideration the latest trends and techniques.
 
 ## 💻 Stacks Experiences
 - HTML & CSS
