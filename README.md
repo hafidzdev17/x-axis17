@@ -7,19 +7,6 @@
 
 👋 Hello friends... My name is Muhammad Hafid Masruri, I'm a Software Engineer who specializes in the *backend* side, but also have the ability to code on the *frontend* side. Very passionate about modern *web technologies* using PHP, JavaScript & Go while taking into consideration the latest trends and techniques.
 
-## 💻 Stacks Experiences
-- HTML & CSS
-- Pure PHP
-- PHP Framework (Laravel)
-- Pure JavaScript
-- NodeJS (ExpressJS)
-- GIT (VCS)
-- JavaScript Ecosystem & Environment
-- ReactJS, VueJS
-- NextJS, NuxtJS
-- Golang
-- Vercel, Netlify, Firebase, GCP
-
 ### 🚀 How to reach me:
 - Email: [contact@do.crazy192@gmail.com](mailto:do.crazy192@gmail.com)
 - LinkedIn: [@kinzoku98](https://www.linkedin.com/in/https://www.linkedin.com/in/hafid-masruri17/)
