@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[🕵️ Blog](https://vavkamil.cz/) | [🐦 Twitter](https://twitter.com/hafidzmasruri17) | [💻 Quora](https://id.quora.com/profile/M-Hafid-Masruri) | [📩 LinkedIn](https://www.linkedin.com/in/hafid-masruri17/) 
+[🕵️ Blog](https://medium.com/@hafidz_98657) | [🐦 Twitter](https://twitter.com/hafidzmasruri17) | [💻 Quora](https://id.quora.com/profile/M-Hafid-Masruri) | [📩 LinkedIn](https://www.linkedin.com/in/hafid-masruri17/) 
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hafidzmasruri17&layout=compact&theme=github_dark&hide=css,tsql,html,scss,less,makefile,shell,dockerfile)
