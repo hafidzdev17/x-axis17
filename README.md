@@ -1,19 +1,8 @@
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hafidzmasruri17&show_icons=true&theme=dracula" alt="Hafidz Github Stats">
-  <br><br>
-  <img src="https://komarev.com/ghpvc/?username=hafidzmasruri17&color=F4A4B5&style=flat" alt="hafidzmasruri17" />
-</div>
-<br>
+### Hi there 👋
 
-👋 Hello friends... My name is Muhammad Hafid Masruri, I'm a Software Engineer who specializes in the *backend* side, but also have the ability to code on the *frontend* side. Very passionate about modern *web technologies* using PHP, JavaScript & Go while taking into consideration the latest trends and techniques.
+[🕵️ Blog](https://vavkamil.cz/) | [🐦 Twitter](https://twitter.com/hafidzmasruri17) | [💻 Quora](https://id.quora.com/profile/M-Hafid-Masruri) | [📩 LinkedIn](https://www.linkedin.com/in/hafid-masruri17/) 
 
-### 🚀 How to reach me:
-- Email: [contact@do.crazy192@gmail.com](mailto:do.crazy192@gmail.com)
-- LinkedIn: [@hafidzmasruri17](https://www.linkedin.com/in/https://www.linkedin.com/in/hafid-masruri17/)
-- Instagram: [@hafidzmasruri17](https://instagram.com/hafet17)
-- Twitter: [@hafidzmasruri17](https://twitter.com/MHafet17)
-- Telegram: [@hafidzmasruri17](https://t.me/xnuxer17)
 
----
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hafidzmasruri17&layout=compact&theme=github_dark&hide=css,tsql,html,scss,makefile,shell,dockerfile)
 
-© 2022 — Muhammad Hafid Masruri
+![hafidzmasruri17 GitHub stats](https://github-readme-stats.vercel.app/api?username=hafidzmasruri17&show_icons=true&theme=github_dark)
