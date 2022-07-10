@@ -1,5 +1,5 @@
-### Hi & Welcome!
-I’m <b>M.Hafid Masruri</b>, I’m a Technology Enthusiast. I currently live in Lumajang, Jatim, Indonesia. I Love Design, Programming &Web Development. I’m interested in Web Dev.
+### Hi coder!
+I’m <b>M.Hafid Masruri</b>, I’m a Technology Enthusiast. I currently live in Lumajang, Jatim, Indonesia. I Love Design, Programming & Web Development. I’m interested in Web Dev.
 
 |hmm Statistics?|huh Streak?|
 |:-------------------------:|:-------------------------:|
